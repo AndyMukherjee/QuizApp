@@ -1,0 +1,39 @@
+body {
+	background-image: url('http://i.imgur.com/nRdM2yf.gif?1');
+	background-size: cover;
+	background-repeat: none;
+
+}
+
+#Question {
+	margin-left: 75px;
+	padding-left: 25px;
+	margin-top: 30px;
+}
+
+ h2{
+	
+	margin:20px;
+ }
+
+ .answere{
+ 	margin-top: 100px;
+ }
+
+.ans{
+	font-size: 20px;
+}
+p1{
+	font-size: 20px;
+	padding-bottom: 30px; 
+}
+.two, .three , .four, .five , .six, .seven, .eight, .nine, .ten
+{
+	display:none;
+}
+
+.image1{
+	background-image: url('../Images/Ducktales.jpg');
+	
+	
+}
