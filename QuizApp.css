@@ -2,6 +2,7 @@ body {
 	background-image: url('http://i.imgur.com/nRdM2yf.gif?1');
 	background-size: cover;
 	background-repeat: none;
+	font-family: 'Satisfy', cursive;
 
 }
 
@@ -36,4 +37,13 @@ p1{
 	background-image: url('../Images/Ducktales.jpg');
 	
 	
+}
+
+.button{
+
+	margin-left: 500px;
+	background-color: #cc33ff;
+	border-radius: 120px;
+	font-size: 20px;
+	font-family: 'Satisfy', cursive;
 }
