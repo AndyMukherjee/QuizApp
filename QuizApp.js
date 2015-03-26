@@ -15,12 +15,14 @@ var A8 =="Arendelle";
 var A9 =="Bear";
 var A10 =="Eugene Fitzherbert";
 
+
+
 $('.one').(function(){
-
+var Z = document.getElementsByName("Choice");
 $('#B2').click(function(){
-var A = $('input').val();
 
-	if (A == A1)
+
+	if (Z == C)
 		{$('.one').append(correct);
 		s=s+1;};
 	
